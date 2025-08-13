@@ -1,3 +1,5 @@
+#ejercicio  4
+
 #como primer acto de amor definimos el autómata
 def automata(palabra):
     estado_actual = 'e0'# Estado inicial
