@@ -1,3 +1,4 @@
+#ejercicio  5
 def automata(palabra):
   estado_actual = 'e0'
   estados_aceptacion = {'e4'}
